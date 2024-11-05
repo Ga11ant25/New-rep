@@ -1,0 +1,52 @@
+.zag {
+    background-color: lightskyblue;
+    border: 2px solid red;
+    border-radius: 20px;
+    text-align: center;
+}
+.tes {
+    color: red;
+}
+.vfi {
+    color: rgb(0, 128, 0);
+    font-weight: bold;
+}
+.ely {
+    color: red;
+}
+.elx {
+    color: yellow;
+}
+.elt {
+    color:green;
+}
+.els {
+    color:gray;
+}
+.inf {
+    font-weight: bold;
+}
+table,
+th {
+    border: 1px solid white;
+}
+.zago {
+    background-color: yellow;
+}
+.nam {
+    background-color: red;
+}
+.sto {
+    background-color: green;
+    text-align: center;
+}
+.vio {
+    background-color:blueviolet;
+    text-align: center;
+}
+.butt {
+    background-color: greenyellow;
+    width: 250px;
+}
+
+
